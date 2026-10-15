@@ -1,6 +1,6 @@
 # student
 this is my first git repository
-<b>
+<br>
 i like python java and Css + HTML 
-<b>
+<br>
 Author - pankaj kumar 
